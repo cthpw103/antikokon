@@ -15,7 +15,7 @@ put the bat file in the corrupted map's folder
 
 step 3:
 
-execute as admin
+open the bat with a text editor and replace "osu file here" by your corrupted map's osu file
 
 step 4: 
 
