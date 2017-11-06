@@ -1,7 +1,7 @@
 # antikokon
 stops yoiyoi kokon from corrupting your osu! maps
 
-
+**IMPORTANT :** this tool changes the corrupted map to a not submitted one.
 
 #  manual
 
